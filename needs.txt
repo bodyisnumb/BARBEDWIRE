@@ -1,0 +1,7 @@
+python-telegram-bot
+noise
+Pillow
+numpy
+matplotlib
+os
+time
